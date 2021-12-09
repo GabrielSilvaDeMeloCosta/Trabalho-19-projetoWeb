@@ -42,3 +42,9 @@
 .footer{
     align-self: center;
 }
+.button1{background-color: #4CAF50;}
+
+.caixa{
+    display: inline-block;
+    align-items:center;
+}
